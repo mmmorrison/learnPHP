@@ -1,1 +1,2 @@
 PHP stands for Hypertext Preprocessor.
+MAMP - Mac Apache MySQL PHP
